@@ -1,1 +1,1 @@
-# Predicting-Stock-Price-using-RNN-LSTM-and-GRU
+# TCS Stock Forecasting: A Comparative Analysis of RNN, LSTM, and GRU
